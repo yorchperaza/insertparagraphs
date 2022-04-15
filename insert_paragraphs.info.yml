@@ -1,0 +1,11 @@
+name: Insert Paragraphs
+type: module
+description: "Assists in inserting paragraphs into the body field as well as other editor and text areas."
+package: Paragraphs
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: insert_paragraphs.config
+dependencies:
+  - drupal:paragraphs
+  - drupal:insert
+
