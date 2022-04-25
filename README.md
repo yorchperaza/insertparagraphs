@@ -6,8 +6,6 @@ CONTENTS OF THIS FILE
  * Recommended Modules
  * Installation
  * Configuration
- * Maintainers
-
 
 INTRODUCTION
 ------------
