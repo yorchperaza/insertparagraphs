@@ -127,7 +127,6 @@ function insert_paragraphs_insert_process(&$insertType, array &$element) {
         if (!is_int($key)) {
             continue;
         }
-//        dump('$key');
         $paragraphs = Paragraph::load($element['selection'][$key]['target_id']['#value']);
         $selectionElement['insert'] = $element['insert'];
 
